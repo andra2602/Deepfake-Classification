@@ -133,7 +133,7 @@ model_andra_mlp.py     # trains & evaluates MLP model
 
 
 ## 📄 Full Documentation
-See Andruta_AndraMihaela_232_doc.pdf for a complete technical breakdown:
+See [**Andruta_AndraMihaela_232_doc.pdf**](https://github.com/andra2602/Deepfake-Classification/blob/main/Andruta_AndraMihaela_232_doc.pdf) for a complete technical breakdown:
 - Dataset exploration
 - Model architecture choices
 - Hyperparameter tuning
